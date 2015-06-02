@@ -24,6 +24,8 @@ apply plugin: 'application'
 apply plugin: 'maven'
 
 mainClassName = 'kcsound.Main'
+group = 'kcsound'
+version =  '0.1.0'
 
 jar {
     baseName = 'kcsound-instruments'
