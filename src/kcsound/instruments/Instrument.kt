@@ -1,3 +1,5 @@
+package kcsound.instruments;
+
 import com.google.gson.JsonObject;
 
 /**
